@@ -1,0 +1,22 @@
+.bg-container{
+    min-height: 120vh;
+}
+
+.card1{
+    background-image: url('https://media.istockphoto.com/id/1456782892/photo/secure-access-to-personal-information-of-network-users-data-protection-and-secured-internet.webp?b=1&s=612x612&w=0&k=20&c=hhJ7yYiuSIzmciC3cjz3dQFnl62UZb8Ip8NTXlxyijU=');
+    height: 250px!important;
+    background-size: cover;
+    padding: 5px;
+}
+.card2{
+    background-image: url('https://images.pexels.com/photos/3944405/pexels-photo-3944405.jpeg?auto=compress&cs=tinysrgb&w=600');
+    height: 250px!important;
+    background-size: cover;
+    padding: 5px;
+}
+.card3{
+    background-image: url('https://media.istockphoto.com/id/1368954963/photo/cyber-security-in-two-step-verification-login-user-identification-information-security-and.jpg?s=612x612&w=0&k=20&c=rJIuhGrlNE9Qax8nLtKmRvn1h0M01z608vzYRfVK6E4=');
+    height: 250px!important;
+    background-size: cover;
+    padding: 5px;
+}

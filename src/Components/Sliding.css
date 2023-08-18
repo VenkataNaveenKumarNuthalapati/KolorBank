@@ -1,0 +1,111 @@
+
+.special_effect {
+    position: fixed;
+    top: 30%;
+    right: 0px;
+}
+.sliding_container {
+    margin: 0.5px;
+    height: 43px;
+    padding: 5px;
+}
+.network {
+    margin-left: 10px;
+    font-size: 11px;
+    font-weight: 400;
+}
+.sliding_container-1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #cbeffb;
+    position: relative;
+    top: 0;
+    transform: translateX(65%);
+    transition: all 0.2s;
+    box-sizing: border-box;
+}
+
+.sliding_container-1:hover {
+    transform: translateX(0%);
+}
+
+.sliding_container-2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #cbeffb;
+    position: relative;
+    top: 0;
+    transform: translateX(65%);
+    transition: all 0.2s;
+    box-sizing: border-box;
+}
+
+.sliding_container-2:hover {
+    transform: translateX(0%);
+}
+
+.sliding_container-3 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #cbeffb;
+    position: relative;
+    top: 0;
+    transform: translateX(65%);
+    transition: all 0.2s;
+    box-sizing: border-box;
+}
+
+.sliding_container-3:hover {
+    transform: translateX(0%);
+}
+
+.sliding_container-4 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #cbeffb;
+    position: relative;
+    top: 0;
+    transform: translateX(65%);
+    transition: all 0.2s;
+    box-sizing: border-box;
+}
+
+.sliding_container-4:hover {
+    transform: translateX(0%);
+}
+
+.sliding_container-5 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #cbeffb;
+    position: relative;
+    top: 0;
+    transform: translateX(65%);
+    transition: all 0.2s;
+    box-sizing: border-box;
+}
+
+.sliding_container-5:hover {
+    transform: translateX(0%);
+}
+
+.sliding_container-6 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #cbeffb;
+    position: relative;
+    top: 0;
+    transform: translateX(65%);
+    transition: all 0.2s;
+    box-sizing: border-box;
+}
+
+.sliding_container-6:hover {
+    transform: translateX(0%);
+}
