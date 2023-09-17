@@ -1,5 +1,5 @@
 import React from "react";
-import "./Sliding.css";
+import "./index.css";
 
 const Sliding = () => {
   return (
@@ -10,7 +10,7 @@ const Sliding = () => {
           style={{ fontSize: "30px" }}
         ></i>
         <p className="network mt-3 pl-2">
-          SBI Official <br />
+          Kolar Official <br />
           Facebook
         </p>
       </div>
@@ -20,7 +20,7 @@ const Sliding = () => {
           style={{ fontSize: "30px" }}
         ></i>
         <p className="network mt-3 pl-2">
-          SBI Official <br />
+          Kolar Official <br />
           Twitter
         </p>
       </div>
@@ -30,7 +30,7 @@ const Sliding = () => {
           style={{ fontSize: "23px" }}
         ></i>
         <p className="network mt-3 pl-2">
-          SBI Official <br />
+          Kolar Official <br />
           Youtube
         </p>
       </div>
@@ -40,7 +40,7 @@ const Sliding = () => {
           style={{ fontSize: "30px" }}
         ></i>
         <p className="network mt-3 pl-2">
-          SBI Official <br />
+          Kolar Official <br />
           LinkedIn
         </p>
       </div>
@@ -50,7 +50,7 @@ const Sliding = () => {
           style={{ fontSize: "30px" }}
         ></i>
         <p className="network mt-3 pl-2">
-          SBI Official <br />
+          Kolar Official <br />
           Instagram
         </p>
       </div>
@@ -60,7 +60,7 @@ const Sliding = () => {
           style={{ fontSize: "30px" }}
         ></i>
         <p className="network mt-3 pl-2">
-          SBI Official <br />
+          Kolar Official <br />
           Pinterest
         </p>
       </div>

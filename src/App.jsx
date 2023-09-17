@@ -1,11 +1,11 @@
 import "./App.css";
 import NavbarComponent from "./Components/Navbar";
-import Home from "./Components/Home";
+import Home from "./Components/Home/index";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import About from "./Components/About";
-import AdminLogin from "./Components/modules/AdminLogin";
-import RegisterForm from "./Components/modules/RegisterForm";
-import LoginForm from "./Components/modules/LoginForm";
+import AdminLogin from "./Components/Modules/AdminLogin";
+import RegisterForm from "./Components/Modules/RegisterForm";
+import LoginForm from "./Components/Modules/LoginForm";
 
 function App() {
   return (
